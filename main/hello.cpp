@@ -10,5 +10,6 @@ int main(void) {
   cout << "Task 4 successfully executed\n";
   cout << "Hello, this is Sankalp\n";
   cout << "Hello, Good Morning\n";
+  cout << "Hello, Greetings\n";
   return 0;
 }
